@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>Project 8: House Price Predictor  </h1>
 Tech: Scikit-learn, Pandas, Matplotlib <br>
 <b>What You Build:</b><br> Load house price dataset, split into train/test, train linear regression model, make predictions, calculate accuracy (R² score), plot predictions vs actual prices.<br>
@@ -43,6 +42,4 @@ analysis<br>
 
 
 
-=======
-# House-Prediction-Model-using-Linear-regression-
->>>>>>> 62de662138677c01602f84b0de4672a2c854dd2a
+
